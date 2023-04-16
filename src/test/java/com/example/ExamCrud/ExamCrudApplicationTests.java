@@ -8,6 +8,7 @@ class ExamCrudApplicationTests {
 
 	@Test
 	void contextLoads() {
+		String a;
 	}
 
 }
